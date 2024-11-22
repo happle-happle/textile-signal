@@ -1,6 +1,6 @@
 # textile-signal
 
-Working list of Radio / Antenna / Weaving Projects
+Working list of Radio / Antenna / Signal Path / Weaving Projects
 
 [Fractal Antennae - Aphroditi Psarra](https://afroditipsarra.com/work/fractal-antennae) Added 11/20/2024
 
@@ -10,6 +10,9 @@ Working list of Radio / Antenna / Weaving Projects
 
 [![battery and solar powered fibers woven directly into fabric](image-files/thumb-textile-battery.png)](https://www.jhuapl.edu/work/projects-and-missions/developing-battery-and-solar-powered-fibers)
 
+[Recording Studio Rya Rug behind Bert de Coteaux / Couteaux](https://www.historyofrecording.com/Bert_De_Coteaux.html) Added 11/22/2024
+
+[![image](image-files/bertrugthumb.png)](https://www.historyofrecording.com/Bert_De_Coteaux.html))
 
 
 [back to top](#textile-signal)
