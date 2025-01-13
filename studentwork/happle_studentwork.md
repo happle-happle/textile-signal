@@ -1,4 +1,7 @@
 **Luca Budofsky (Fall 2024)**
+
+![a person wearinga a kimono with a fractal pattern embroideried with conductive thread, wearing headphones](image-files/FractalKimono_3.jpeg)
+
 - Luca Budofsky took an independent study with Harrison Apple during Fall 2024 while enrolled at the CMU School of Art.
 - Luca learned weaving fundamentals including warp calculation, warp winding, loom dressing, and weaving on a four-harness table loom.
   - They chose to thread an undulating twill using 8/2 cotton rug warp set at 15 epi. They experimented with found yarns (plastic, metal, so on) and coloring the warp.
