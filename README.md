@@ -12,7 +12,7 @@ Working list of Radio / Antenna / Signal Path / Weaving Projects
 
 [Recording Studio Rya Rug behind Bert de Coteaux / Couteaux](https://www.historyofrecording.com/Bert_De_Coteaux.html) Added 11/22/2024
 
-[![image](image-files/bertrugthumb.png)](https://www.historyofrecording.com/Bert_De_Coteaux.html))
+[![black and white image of a man in coat, hat and thick black glasses talks on the phone](image-files/bertrugthumb.png)](https://www.historyofrecording.com/Bert_De_Coteaux.html))
 
 
 [back to top](#textile-signal)
