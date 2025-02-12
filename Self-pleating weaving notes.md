@@ -18,3 +18,5 @@ Notes for next sampler
 - higher twist yarn (retwisting something on my wheel)
    - crepe wool, crepe silk, buy some cones as a trial
 - higher epa areas between cords
+
+<img src="/image-files/8798.jpeg" width="150"/> <img src="/image-files/8803.jpeg" width="150"/> <img src="/image-files/8806.jpeg" width="150"/> <img src="/image-files/8811.jpeg" width="150"/>
