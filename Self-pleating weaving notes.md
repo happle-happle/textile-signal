@@ -24,10 +24,14 @@ Notes for next sampler
 
 # February 12, 2025 Dried sample
 
-May buy cones from either or both [Lunatic Fringe](https://lunaticfringeyarns.com/product/silk-crepe-yarn-gevolveyarns/) and [Made in America Yarns]([https://www.madeinamericayarns.com/?s=silk+crepe&post_type=product](https://www.madeinamericayarns.com/product/wool-crepe-yarn-sale/))
-
-Dried sample outcome:
+Dried sample outcome notes:
 - the cords are raised but the handspun wool floats did not create tight pleats.
 - Good candidate for hand sewing the crepes with a gathering stitch, use for a hat
 
 <img src="/image-files/8812.png" width="150"/>
+
+Bought cones from [Lunatic Fringe](https://lunaticfringeyarns.com/product/silk-crepe-yarn-gevolveyarns/) 
+
+- Silk Crepe Yarn- GevolveYarns × 1	$13.50
+- Linen Crepe Yarn- GevolveYarns - Z Twist (700 TPM) × 1 Twist: Z Twist (700 TPM) $11.00
+- Linen Crepe Yarn- GevolveYarns - S Twist (1500 TPM) × 1 Twist: S Twist (1500 TPM) $11.00
