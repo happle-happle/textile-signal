@@ -24,7 +24,7 @@ Notes for next sampler
 
 # February 12, 2025 Dried sample
 
-Buying cones from [Lunatic Fringe](https://lunaticfringeyarns.com/product/silk-crepe-yarn-gevolveyarns/) and [Made in America Yarns]([https://www.madeinamericayarns.com/?s=silk+crepe&post_type=product](https://www.madeinamericayarns.com/product/wool-crepe-yarn-sale/))
+May buy cones from either or both [Lunatic Fringe](https://lunaticfringeyarns.com/product/silk-crepe-yarn-gevolveyarns/) and [Made in America Yarns]([https://www.madeinamericayarns.com/?s=silk+crepe&post_type=product](https://www.madeinamericayarns.com/product/wool-crepe-yarn-sale/))
 
 Dried sample outcome:
 - the cords are raised but the handspun wool floats did not create tight pleats.
