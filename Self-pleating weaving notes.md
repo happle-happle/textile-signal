@@ -1,4 +1,5 @@
-February 11 5:00 pm
+# February 11, 2025 Pleat sample wet finish
+
 Sample of 1234 1234 56 56 56 1234 1234 787878 (plain weave combined with alternating warp float and weft loat cords, then alternating cords withboned with half hopsack handspun (hightwist?) and normal yarn pg 87-90)
 
 sampler
