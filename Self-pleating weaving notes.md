@@ -21,3 +21,13 @@ Notes for next sampler
 - higher epa areas between cords
 
 <img src="/image-files/8798.jpeg" width="150"/> <img src="/image-files/8803.jpeg" width="150"/> <img src="/image-files/8806.jpeg" width="150"/> <img src="/image-files/8811.jpeg" width="150"/>
+
+# February 12, 2025 Dried sample
+
+Buying cones from [Lunatic Fringe](https://lunaticfringeyarns.com/product/silk-crepe-yarn-gevolveyarns/) and [Made in America Yarns](https://www.madeinamericayarns.com/?s=silk+crepe&post_type=product)
+
+Dried sample outcome:
+- the cords are raised but the handspun wool floats did not create tight pleats.
+- Good candidate for hand sewing the crepes with a gathering stitch, use for a hat
+
+<img src="/image-files/8812.png" width="150"/>
