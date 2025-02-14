@@ -1,6 +1,6 @@
 # textile-signal
 
-Working list of Radio / Antenna / Signal Path / Weaving Projects
+Working list of related (Radio / Antenna / Signal Path) Weaving Projects
 
 [Fractal Antennae - Aphroditi Psarra](https://afroditipsarra.com/work/fractal-antennae) Added 11/20/2024
 
