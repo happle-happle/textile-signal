@@ -35,3 +35,16 @@ Bought cones from [Lunatic Fringe](https://lunaticfringeyarns.com/product/silk-c
 - Silk Crepe Yarn- GevolveYarns × 1	$13.50
 - Linen Crepe Yarn- GevolveYarns - Z Twist (700 TPM) × 1 Twist: Z Twist (700 TPM) $11.00
 - Linen Crepe Yarn- GevolveYarns - S Twist (1500 TPM) × 1 Twist: S Twist (1500 TPM) $11.00
+
+# February 27, 2025 Hand sewn (invisible stitch) to create texture
+
+I used a hand needle and the invisible stitch to create pleates following the lines of my floating yarn.
+I found that tightly packed stitches created a high pressure pleat without ironing, AND an easy to twist area of fabric.
+Creating looser and further spread out stitches created gentle waves across the fabric.
+Alternating stitches on the top side for 1 inch, then bottom side for 1 inch, created a fascinating egg-crate texture
+
+<img src="/image-files/8967.png" width="150"/> <img src="image-files/8961.png" width="150"/> 
+
+I also found that long areas of unpleated yarn interupted with fleats only on one side created an attractive color contrasting valley.
+
+<img src="/image-files/8994.png" width="150"/> <img src="/image-files/8995.png" width="150"/> <img src="/image-files/8996.png" width="150"/> <img src="/image-files/8997.png" width="150"/>
