@@ -14,5 +14,9 @@ Working list of related (Radio / Antenna / Signal Path) Weaving Projects
 
 [![black and white image of a man in coat, hat and thick black glasses talks on the phone](image-files/bertrugthumb.png)](https://www.historyofrecording.com/Bert_De_Coteaux.html))
 
+[High Twist Yarn Experiments](studentwork/Self-pleating-weaving-notes.md) Added 2/27/2025
+
+<a href="github.com/happle-happle/textile-signal/studentwork/Self-pleating-weaving-notes.md"><img src="image-files/8798.jpeg" style="width:200px;height:200px;"/></a>
+
 
 [back to top](#textile-signal)
