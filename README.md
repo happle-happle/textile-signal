@@ -16,7 +16,6 @@ Working list of related (Radio / Antenna / Signal Path) Weaving Projects
 
 [High Twist Yarn Experiments](Self-pleating-weaving-notes.md) Added 2/27/2025
 
-<a href="Self-pleating-weaving-notes.md"><img src="image-files/8798.jpeg" style="width:200px;height:200px;"/></a>
-
+<a href="Self-pleating-weaving-notes.md"><img src="image-files/8798.jpeg" style="width:200px;height:200px;"/></a><br>
 
 [back to top](#textile-signal)
