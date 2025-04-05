@@ -48,3 +48,10 @@ Alternating stitches on the top side for 1 inch, then bottom side for 1 inch, cr
 I also found that long areas of unpleated yarn interupted with fleats only on one side created an attractive color contrasting valley.
 
 <img src="/image-files/8994.png" width="150"/> <img src="/image-files/8995.png" width="150"/> <img src="/image-files/8996.png" width="150"/> <img src="/image-files/8997.png" width="150"/>
+
+# April 5, 2025 Cotton and Linen Warp with Lunatic Fringe high twist linen (s twist) as weft
+
+I wove a few yards of a green and gold warp, using second hand green cotton cord at 40 epi and gold color linen (hand dyed in 2021 by me) at 20 epi.
+The wet finishing proved a successful and dramatic cinching over the floats, which I had worried were too sparsely packed due in large part to the density of the green warp.
+
+<img src="/image-files/9248.jpg" width="150"> <img src="image-files/9429.jpg" width="150"/>
