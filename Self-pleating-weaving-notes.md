@@ -54,4 +54,4 @@ I also found that long areas of unpleated yarn interupted with fleats only on on
 I wove a few yards of a green and gold warp, using second hand green cotton cord at 40 epi and gold color linen (hand dyed in 2021 by me) at 20 epi.
 The wet finishing proved a successful and dramatic cinching over the floats, which I had worried were too sparsely packed due in large part to the density of the green warp.
 
-<img src="/image-files/9248.jpg" width="150"> <img src="image-files/9429.jpg" width="150"/>
+<img src="/image-files/9248.jpg" width="150"> <img src="image-files/9429.jpg" width="150"/> <img src="/image-files/9520.jpg" height="200">
