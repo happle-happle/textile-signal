@@ -55,3 +55,12 @@ I wove a few yards of a green and gold warp, using second hand green cotton cord
 The wet finishing proved a successful and dramatic cinching over the floats, which I had worried were too sparsely packed due in large part to the density of the green warp.
 
 <img src="/image-files/9248.jpg" width="150"> <img src="image-files/9429.jpg" width="150"/> <img src="/image-files/9520.jpg" height="200">
+
+# April 3, 2026 Reflections on notation, the line takes itself for a walk
+
+My approach to high twist yarn has been trial and error but I feel comfortable with the ability to now measure the effect of puckering/creping based off of the conditions of warp, weft, and structure. 
+What would be helpful as a teaching tool is an augmented notation, where spots across the drawdown demonstrate how they "cinch" together after wet-finishing. 
+
+<img src="/image-files/drawdown-cord-1.png" width="300"> 
+
+<img src="image-files/drawdown-cord-2.png" width="300"/>
