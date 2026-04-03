@@ -1,6 +1,6 @@
 # February 11, 2025 Pleat sample wet finish
 
-Sample of 1234 1234 56 56 56 1234 1234 787878 (plain weave combined with alternating warp float and weft loat cords, then alternating cords withboned with half hopsack handspun (hightwist?) and normal yarn pg 87-90)
+Sample of 1234 1234 56 56 56 1234 1234 787878 (plain weave combined with alternating warp float and weft loat cords, then alternating cords withboned with half hopsack handspun (hightwist?) and normal yarn pg 87-90 of Ann Richards "Weaving Textiles That Shape Themselves")
 
 sampler
 + warp made with a plant based normal twist purple yarn
@@ -60,6 +60,8 @@ The wet finishing proved a successful and dramatic cinching over the floats, whi
 
 My approach to high twist yarn has been trial and error but I feel comfortable with the ability to now measure the effect of puckering/creping based off of the conditions of warp, weft, and structure. 
 What would be helpful as a teaching tool is an augmented notation, where spots across the drawdown demonstrate how they "cinch" together after wet-finishing. 
+
+Some historical materials more easily explain to us how yarn twist affects the general **appearance of fabric** but this technique is an area of explanation for how the overall structure (as well as appearance) are affected by uncommon yarn preparation.
 
 <img src="/image-files/drawdown-cord-1.png" width="300"> 
 
